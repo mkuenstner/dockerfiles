@@ -8,5 +8,5 @@ docker build . -t latex
 
 ## Run
 ```
-docker run -i -v $PWD:/mount -t latex
+docker run --rm -v $PWD:/mount -t latex
 ```

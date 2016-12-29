@@ -1,5 +1,5 @@
 # clamav
-Scans the files from where the container is run for viruses using clamav.
+Scans the files from where the container is run for viruses using [clamav](https://www.clamav.net/).
 
 ## Build
 ```
